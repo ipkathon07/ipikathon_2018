@@ -1,0 +1,19 @@
+.Thematique {
+	text-align: center;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color:#331923 !important;
+    border-color: #331923 !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color:  #4c2c39 !important;
+    border-color:  #4c2c39 !important;
+}
+
+body{
+	background-color: #fffdef;
+}
